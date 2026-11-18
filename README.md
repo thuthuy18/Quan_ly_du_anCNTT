@@ -201,26 +201,4 @@ Mô hình MVC giúp phân chia rõ ràng các thành phần trong chương trìn
 
 ---
 
-## 9. Thành viên thực hiện
-
-| Thành viên | Công việc |
-|---|---|
-| Ngân | Xem chi tiết |
-| Sơn | Chỉnh sửa thông tin |
-| Hòa | Thêm dữ liệu |
-| Thủy | Chức năng xóa và cơ sở dữ liệu |
-| Hùng | Thiết kế giao diện |
-
----
-
-## 10. Định hướng phát triển
-
-- Bổ sung đăng nhập và phân quyền người dùng.
-- Thống kê số lượng sách mượn và trả.
-- Tìm kiếm sách và độc giả.
-- Cải thiện giao diện responsive.
-- Nâng cao tính bảo mật và kiểm tra dữ liệu đầu vào.
-
----
-
 © 2026 - Website quản lý thư viện
